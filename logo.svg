@@ -1,1 +1,1 @@
-<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g><rect x="75" y="90" width="200" height="200" fill="Yellow"/><text x="150" y="125" font-size="60" text-anchor="middle" fill="Blue">DVD</text></g></svg>
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g><circle cx="150" cy="100" r="80" fill="Blue"/><text x="150" y="125" font-size="60" text-anchor="middle" fill="Red">DVD</text></g></svg>

@@ -26,6 +26,7 @@ To Install the repository onto your local drive, git clone the repository to you
 To use the project, ensure the repository is cloned onto your local drive, and type npm start into the terminal. Ensure the path is relative to the repository we are working in. From this, the user will be asked to input the details of their logo, in the command line. The code will automatically create an SVG file in the code, and input all the details into the file. The logo can be viewed by opening love server.
 <video src="./assets/SVG Logo Generator - Screen Record.mov" controls="controls" style="max-width: 730px;">
 </video>
+<img src="./assets/SVG File Preview - Live Server.png>" alt="SVG File Preview in Live Server" style="max-width: 730px;">
 
 ### Contributions
 
